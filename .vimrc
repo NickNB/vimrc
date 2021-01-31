@@ -15,7 +15,9 @@ imap ææ }
 imap åæ [
 imap æå ]
 
-nmap å 10k
-nmap æ 10j
+nmap å 5k
+nmap æ 5j
 
-vmap ii <esc> 
+vmap ii <esc>
+vmap å 5k
+vmap æ 5j
