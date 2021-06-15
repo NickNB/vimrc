@@ -8,6 +8,9 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 set scrolloff=5
+set visualbell
+set noerrorbells
+set clipboard=unnamed
 
 imap ii <esc>
 imap åå {
